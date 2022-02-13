@@ -7,4 +7,3 @@ Reconstrução da página de login do Instagram com o objetivo de trabalhar os c
 
 ## Projeto final
 ![imagem projeto final](./img/instaprojetofinal-1.png)
-![imagem projeto final 2](./img/instaprojetofinal-2.png)
